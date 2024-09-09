@@ -1,7 +1,3 @@
-# Sprint Projektetet
+# Layout med Flexbox
 
-
-##glm....
-
-
-Her finder du vores sprint projekt....
+Øvelse i klassen.
